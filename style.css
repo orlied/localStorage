@@ -1,0 +1,16 @@
+input{
+  border-radius: 5px 5px 5px 5px;
+  font-size: 15px;
+  padding: 10px 10px 10px 10px;
+}
+
+button{
+  background: linear-gradient(gray, white);
+  font-size: 15px;
+  border-radius: 6px 6px 6px 6px;
+  padding: 10px 10px 10px 10px;
+}
+
+header{
+  padding-top: 60px;
+}
